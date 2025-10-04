@@ -25,3 +25,4 @@ These objectives are curated by ShadowFox to provide interns with an
 opportunity to apply their technical skills in web development while also
 fostering creativity, and a deep appreciation for the IPL and its fan
 culture.
+Hosted link: https://lohi2002gowda.github.io/RCB/
